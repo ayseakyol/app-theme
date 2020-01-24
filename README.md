@@ -7,11 +7,14 @@ pages** people can find lots of information about company. Header-footer, showca
 colorful met the images. Also the `#56a79a` color give quiet and comfort to people. Navbar is very helpful to get around the 
 pages. In contact page, with the help of form people can contact met the company easily.
 
-## Visuals
+## Visual
+This is the main page of the project:
+
 ![](https://raw.githubusercontent.com/ayseakyol/ayseakyol.github.io/6e4de7a7631977f037695600e69bfda4a6528a71/screenshot/app-theme.png)
 
 
 ## Installation
+with the Visual Studio Code I prepared this project. Also fontawesome  
 
 ## Features
 
