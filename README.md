@@ -8,7 +8,7 @@ colorful met the images. Also the `#56a79a` color give quiet and comfort to peop
 pages. In contact page, with the help of form people can contact met the company easily.
 
 ## Visuals
-![] (https://raw.githubusercontent.com/ayseakyol/ayseakyol.github.io/6e4de7a7631977f037695600e69bfda4a6528a71/screenshot/app-theme.png)
+![](https://raw.githubusercontent.com/ayseakyol/ayseakyol.github.io/6e4de7a7631977f037695600e69bfda4a6528a71/screenshot/app-theme.png)
 
 
 ## Installation
