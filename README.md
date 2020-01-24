@@ -1,11 +1,7 @@
 # Project of App-Theme
 
 ## Description
-I prepared this project after the tutorial with using **HTML5, CSS3**. Especially, to prepare responsive webpages I benefit     
-from the `flexboxgrid`. Flexboxgrid is very helpfu to do responsive pages. With the help of **home, about, services, contact 
-pages** people can find lots of information about company. Header-footer, showcase, features, info section etc. are very 
-colorful met the images. Also the `#56a79a` color give quiet and comfort to people. Navbar is very helpful to get around the 
-pages. In contact page, with the help of form people can contact met the company easily.
+I prepared this project after the tutorial with using **HTML5, CSS3**. The first aim of this project is making branches correctly and easily. Flexboxgrid 
 
 ## Visual
 This is the main page of the project:
@@ -14,12 +10,14 @@ This is the main page of the project:
 
 
 ## Installation
-with the Visual Studio Code I prepared this project. Also fontawesome  
+with the Visual Studio Code I prepared this project. Also `font-awesome.css` and `flexboxfrid.css` files are used to become more responsive and prettier.  
 
 ## Features
+Especially, to prepare responsive webpages I benefit from the `flexboxgrid`. Flexboxgrid is very helpfu to do responsive pages.
 
 ## Usage
-
+With the help of **home, about, services, contact pages** people can find lots of information about company.In contact page, with the help of form people can contact met the company easily.  Also the `#56a79a` color give quiet and comfort to people. Navbar is very helpful to get around the 
+pages. 
 
 ## Inspiration
 
