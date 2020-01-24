@@ -10,7 +10,7 @@ This is the main page of the project:
 
 
 ## Installation
-With the Visual Studio Code I prepared this project. Also `font-awesome.css` and `flexboxfrid.css` files are used to prepare more responsive and prettier web pages.  
+With the `Visual Studio Code` I prepared this project. Also `font-awesome.css` and `flexboxfrid.css` files are used to prepare more responsive and prettier web pages.  
 
 ## Features
 Especially, to prepare responsive webpages I benefit from the `flexboxgrid`. Flexboxgrids enable specifying different column sizes, offsets, alignment and distribution at xs, sm, md & lg viewport widths.
